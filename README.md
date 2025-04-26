@@ -17,14 +17,14 @@ Follow these instructions to set up and run the project locally:
 
 ## 1. Clone the Repository:
 
-bash
+## bash
 git clone https://github.com/shreeja-29/Titanic-Survival-Prediction.git
 cd titanic-survival-prediction
 
 ## 2. Install Required Libraries: 
 Ensure you have Python installed. Then, install the dependencies:
 
-bash
+## bash
 pip install -r requirements.txt
 
 ## 3. Download the Dataset:
@@ -35,7 +35,7 @@ Example dataset sources: Kaggle Titanic Dataset /www.kaggle.com/c/titanic/data
 ## 4. Run the Code:
 Run the Python script to train the model and view results:
 
-bash
+## bash
 python titanic_survival_prediction.py
 
 ## 5. Explore Results:
